@@ -4,18 +4,16 @@ from pages.A_Landing_Page import LandingPage
 from utilities.explicit_wait_class import explicit_wait
 import pytest
 from utilities.generate_fake_testdata import generate_fake_data
-from utilities.custom_logging import LoggerCustom
 
 
 class InsuranceApplicationPage(LandingPage):
-    def __init__(self, driver):
-        super().__init__(driver)
-        self.logger = LoggerCustom().setup_logger("InsuranceApplicationPage.log", 5084, 10)  # Initialize logger for InsuranceApplicationPage
+    def __init__(self, driver, logger):
+        super().__init__(driver, logger)
 
     @pytest.mark.priority(1)
     def filling_mandatory_field_male(self):
         self.logger.info("Filling mandatory fields for male applicant")
-        landing_page = LandingPage(self.driver)
+        landing_page = LandingPage(self.driver, self.logger)
         landing_page.click_health_element()
         self.logger.info("Successfully clicked on health element")
         male_fake_data = generate_fake_data(gender="male")
@@ -39,7 +37,7 @@ class InsuranceApplicationPage(LandingPage):
     @pytest.mark.priority(2)
     def filling_mandatory_field_female(self):
         self.logger.info("Filling mandatory fields for female applicant")
-        landing_page = LandingPage(self.driver)
+        landing_page = LandingPage(self.driver, self.logger)
         landing_page.click_health_element()
         female_fake_data = generate_fake_data(gender="female")
 

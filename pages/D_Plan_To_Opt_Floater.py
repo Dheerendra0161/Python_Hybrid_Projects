@@ -1,16 +1,15 @@
 from selenium.webdriver.common.by import By
 from utilities.explicit_wait_class import explicit_wait
 from pages.C_Whom_To_Insure_Page import WhomToInsurePage
-from utilities.custom_logging import LoggerCustom
 
 
 class PlanToOptPage(WhomToInsurePage):
-    def __init__(self, driver):
-        super().__init__(driver)
-        self.logger = LoggerCustom().setup_logger("PlanToOptPage.log", 5084, 10)
+    def __init__(self, driver, logger):
+        super().__init__(driver, logger)
+        self.logger = logger
 
     def selecting_plan_to_opt_family_floater(self):
-        person_insured = WhomToInsurePage(self.driver)
+        person_insured = WhomToInsurePage(self.driver, self.logger)
         person_insured.selecting_member_to_insured()
         family_floater = explicit_wait(self.driver, (By.XPATH, "//span[@id='auto_F']"),
                                        'clickable', 10)
@@ -21,7 +20,7 @@ class PlanToOptPage(WhomToInsurePage):
         self.logger.info(f"continue button clicked")
 
     def selecting_plan_to_opt_multi_individual(self):
-        person_insured = WhomToInsurePage(self.driver)
+        person_insured = WhomToInsurePage(self.driver, self.logger)
         person_insured.selecting_member_to_insured()
         multi_individual = explicit_wait(self.driver, (By.XPATH, "//span[@id='auto_M']"),
                                          'clickable', 10)

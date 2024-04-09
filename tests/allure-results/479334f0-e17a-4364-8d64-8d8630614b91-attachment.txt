@@ -1,4 +1,0 @@
-An error occurred: name 'son_age' is not defined
-An error occurred: name 'son_age' is not defined
-An error occurred: unsupported operand type(s) for -: 'int' and 'str'
-An error occurred: unsupported operand type(s) for -: 'int' and 'str'

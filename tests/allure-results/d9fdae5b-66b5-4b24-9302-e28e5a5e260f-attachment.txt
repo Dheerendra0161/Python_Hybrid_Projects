@@ -1,8 +1,0 @@
-[32mINFO    [0m InsuranceApplicationPage.log:B_Insurance_Application_Apply_Page.py:17 Filling mandatory fields for male applicant
-[32mINFO    [0m LandingPage.log:A_Landing_Page.py:12 Click on health element
-[35mDEBUG   [0m LandingPage.log:A_Landing_Page.py:15 Successfully clicked on health element
-[32mINFO    [0m InsuranceApplicationPage.log:B_Insurance_Application_Apply_Page.py:20 Successfully clicked on health element
-[35mDEBUG   [0m InsuranceApplicationPage.log:B_Insurance_Application_Apply_Page.py:25 Entered full name: Kenneth Sanchez
-[35mDEBUG   [0m InsuranceApplicationPage.log:B_Insurance_Application_Apply_Page.py:29 Entered mobile number: 9829030333
-[35mDEBUG   [0m InsuranceApplicationPage.log:B_Insurance_Application_Apply_Page.py:33 Entered email: tracyowens@example.net
-[32mINFO    [0m InsuranceApplicationPage.log:B_Insurance_Application_Apply_Page.py:37 Clicked on Get Started button

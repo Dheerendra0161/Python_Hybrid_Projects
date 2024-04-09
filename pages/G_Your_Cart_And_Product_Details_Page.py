@@ -6,13 +6,13 @@ from utilities.custom_logging import LoggerCustom
 
 
 class ChooseMultiYearOptionsAndReviewCartPage(CompaniesHealthInsuranceQuotesPage):
-    def __init__(self, driver):
-        super().__init__(driver)
-        self.logger = LoggerCustom().setup_logger("ChooseMultiYearOptionsAndReviewCartPage.log", 5084, 10)
+    def __init__(self, driver, logger):
+        super().__init__(driver, logger)
+        self.logger = logger
 
     def choose_multi_year_options(self):
         self.logger.info("Choosing Multi-Year Options")
-        choose_health_insurance_company = CompaniesHealthInsuranceQuotesPage(self.driver)
+        choose_health_insurance_company = CompaniesHealthInsuranceQuotesPage(self.driver, self.logger)
         choose_health_insurance_company.assert_edit_details_button()
         choose_health_insurance_company.choose_insurer_companies_plan()
         choose_health_insurance_company.assert_review_your_cart_before_proceed_popup_page()

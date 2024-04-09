@@ -1,8 +1,0 @@
-[32mINFO    [0m InsuranceApplicationPage.log:B_Insurance_Application_Apply_Page.py:41 Filling mandatory fields for female applicant
-[32mINFO    [0m LandingPage.log:A_Landing_Page.py:12 Click on health element
-[35mDEBUG   [0m LandingPage.log:A_Landing_Page.py:15 Successfully clicked on health element
-[35mDEBUG   [0m InsuranceApplicationPage.log:B_Insurance_Application_Apply_Page.py:48 Selected Female gender
-[35mDEBUG   [0m InsuranceApplicationPage.log:B_Insurance_Application_Apply_Page.py:52 Entered full name: Wendy Cooper
-[35mDEBUG   [0m InsuranceApplicationPage.log:B_Insurance_Application_Apply_Page.py:56 Entered mobile number: 9894388516
-[35mDEBUG   [0m InsuranceApplicationPage.log:B_Insurance_Application_Apply_Page.py:60 Entered email: larry12@example.com
-[32mINFO    [0m InsuranceApplicationPage.log:B_Insurance_Application_Apply_Page.py:64 Clicked on Get Started button

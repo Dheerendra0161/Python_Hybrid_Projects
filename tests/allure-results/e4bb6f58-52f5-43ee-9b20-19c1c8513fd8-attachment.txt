@@ -1,4 +1,0 @@
-An error occurred: name 'mother_age' is not defined
-An error occurred: name 'mother_age' is not defined
-An error occurred: name 'son_age' is not defined
-An error occurred: name 'son_age' is not defined

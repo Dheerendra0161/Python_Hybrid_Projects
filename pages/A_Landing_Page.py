@@ -1,12 +1,11 @@
 from selenium.webdriver.common.by import By
 from utilities.explicit_wait_class import explicit_wait
-from utilities.custom_logging import LoggerCustom
 
 
 class LandingPage:
-    def __init__(self, driver):
+    def __init__(self, driver, logger):
         self.driver = driver
-        self.logger = LoggerCustom().setup_logger("LandingPage.log", 5084, 10)  # Initialize logger for LandingPage
+        self.logger = logger
 
     def click_health_element(self):
         self.logger.info("Click on health element")

@@ -10,17 +10,16 @@ from utilities.explicit_wait_class import explicit_wait
 from utilities.excel_file_read_data import read_excel_data, read_excel_data3, read_excel_data5
 from utilities.generate_age_data import generate_age_data
 from utilities.custorms_actions_chains import ActionChains, CustomActionChains
-from utilities.custom_logging import LoggerCustom
 
 
 class WhomToInsurePage(InsuranceApplicationPage):
-    def __init__(self, driver):
-        super().__init__(driver)
+    def __init__(self, driver, logger):
+        super().__init__(driver, logger)
+        self.logger = logger
         self.action_class = ActionChains(self.driver)
-        self.logger = LoggerCustom().setup_logger("WhomToInsurePage.log", 5084, 10)
 
     def selecting_member_to_insured(self):
-        insurance_page = InsuranceApplicationPage(self.driver)
+        insurance_page = InsuranceApplicationPage(self.driver, self.logger)
         insurance_page.filling_mandatory_field_male()
         global spouse_age, daughter_age, son_age, father_age, mother_age, spouse_age, son_age, daughter_age, self_age
         father_age = None

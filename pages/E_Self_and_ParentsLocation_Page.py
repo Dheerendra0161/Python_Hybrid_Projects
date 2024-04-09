@@ -6,18 +6,17 @@ from pages.D_Plan_To_Opt_Floater import PlanToOptPage
 from utilities.explicit_wait_class import explicit_wait
 from utilities.excel_file_read_data import read_excel_data5
 from utilities.custorms_actions_chains import CustomActionChains
-from utilities.custom_logging import LoggerCustom
 
 
 class SelfParentsLocationPage(PlanToOptPage):
-    def __init__(self, driver):
-        super().__init__(driver)
+    def __init__(self, driver, logger):
+        super().__init__(driver, logger)
+        self.logger = logger
         self.custom_action_class = CustomActionChains(self.driver)
-        self.logger = LoggerCustom().setup_logger("SelfParentsLocationPage.log", 5084, 10)
 
     def entering_self_city_location(self):
         self.logger.info(f"plan opted get selected")
-        plant_opted = PlanToOptPage(self.driver)
+        plant_opted = PlanToOptPage(self.driver, self.logger)
         plant_opted.selecting_plan_to_opt_family_floater()
 
         enter_self_pin_or_city = explicit_wait(self.driver, (By.XPATH, "//input[@id='auto-location']"), 'clickable', 10)

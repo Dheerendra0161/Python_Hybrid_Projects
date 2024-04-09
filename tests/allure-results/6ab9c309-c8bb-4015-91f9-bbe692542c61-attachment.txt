@@ -1,4 +1,0 @@
-An error occurred: unsupported operand type(s) for -: 'int' and 'str'
-An error occurred: unsupported operand type(s) for -: 'int' and 'str'
-An error occurred: unsupported operand type(s) for -: 'int' and 'str'
-An error occurred: unsupported operand type(s) for -: 'int' and 'str'

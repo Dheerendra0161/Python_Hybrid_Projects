@@ -11,7 +11,7 @@ class LoggerCustom:
         os.makedirs(self.log_dir, exist_ok=True)
 
     def setup_logger(self, log_file, max_bytes, backup_count,
-                     log_level=logging.DEBUG):  # determines how many of these rotated log files to retain
+                     log_level=logging.DEBUG,mode='a'):  # determines how many of these rotated log files to retain
         # Check if logger with log_file name already exists
         if log_file in LoggerCustom._loggers:
             return LoggerCustom._loggers[log_file]
@@ -26,7 +26,6 @@ class LoggerCustom:
         # console_formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s',
         #                                       datefmt='%d/%m/%Y %I:%M:%S %p')
         # console_handler.setFormatter(console_formatter)
-
         # Create rotating file handler
         handler = RotatingFileHandler(os.path.join(self.log_dir, log_file), maxBytes=max_bytes,
                                       backupCount=backup_count)

@@ -1,5 +1,4 @@
 from selenium.webdriver.support.ui import Select
-import pytest
 
 
 def select_option(dropdown, criteria, value):

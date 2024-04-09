@@ -1,0 +1,334 @@
+09/04/2024 06:14:20 PM - INFO - ************** Appended TestPlanToOpt **************************
+09/04/2024 06:14:20 PM - INFO - Filling mandatory fields for male applicant
+09/04/2024 06:14:20 PM - INFO - Click on health element
+09/04/2024 06:14:21 PM - INFO - Successfully clicked on health element
+09/04/2024 06:14:21 PM - INFO - Successfully clicked on health element
+09/04/2024 06:14:22 PM - DEBUG - Entered full name: Tyler Morales
+09/04/2024 06:14:22 PM - DEBUG - Entered mobile number: 9875024313
+09/04/2024 06:14:22 PM - DEBUG - Entered email: greentaylor@example.com
+09/04/2024 06:14:22 PM - INFO - Clicked on Get Started button
+09/04/2024 06:14:22 PM - DEBUG - random data of relation get selected
+09/04/2024 06:14:22 PM - INFO - row_data auto_self sends to dynamic xpath relations and age
+09/04/2024 06:14:23 PM - DEBUG - selected member get clicked
+09/04/2024 06:14:24 PM - DEBUG - selected member age get clicked
+09/04/2024 06:14:24 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:14:24 PM - INFO - row_data auto_spouse sends to dynamic xpath relations and age
+09/04/2024 06:14:24 PM - DEBUG - selected member get clicked
+09/04/2024 06:14:24 PM - DEBUG - selected member age get clicked
+09/04/2024 06:14:24 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:14:24 PM - INFO - row_data auto_son sends to dynamic xpath relations and age
+09/04/2024 06:14:24 PM - DEBUG - selected member get clicked
+09/04/2024 06:14:25 PM - DEBUG - selected member age get clicked
+09/04/2024 06:14:25 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:14:25 PM - INFO - row_data auto_daughter sends to dynamic xpath relations and age
+09/04/2024 06:14:25 PM - DEBUG - selected member get clicked
+09/04/2024 06:14:25 PM - DEBUG - selected member age get clicked
+09/04/2024 06:14:26 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:14:26 PM - INFO - row_data auto_father sends to dynamic xpath relations and age
+09/04/2024 06:14:26 PM - DEBUG - selected member get clicked
+09/04/2024 06:14:26 PM - DEBUG - selected member age get clicked
+09/04/2024 06:14:26 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:14:26 PM - INFO - row_data auto_mother sends to dynamic xpath relations and age
+09/04/2024 06:14:26 PM - DEBUG - selected member get clicked
+09/04/2024 06:14:27 PM - DEBUG - selected member age get clicked
+09/04/2024 06:14:27 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:14:27 PM - INFO - clicked on the continue button
+09/04/2024 06:14:28 PM - DEBUG - family floater option selected and  clicked
+09/04/2024 06:14:28 PM - INFO - continue button clicked
+09/04/2024 06:14:39 PM - INFO - ************** Appended TestPlanToOpt **************************
+09/04/2024 06:14:39 PM - INFO - ************** Appended TestPlanToOpt **************************
+09/04/2024 06:14:39 PM - INFO - Filling mandatory fields for male applicant
+09/04/2024 06:14:39 PM - INFO - Filling mandatory fields for male applicant
+09/04/2024 06:14:39 PM - INFO - Click on health element
+09/04/2024 06:14:39 PM - INFO - Click on health element
+09/04/2024 06:14:40 PM - INFO - Successfully clicked on health element
+09/04/2024 06:14:40 PM - INFO - Successfully clicked on health element
+09/04/2024 06:14:40 PM - INFO - Successfully clicked on health element
+09/04/2024 06:14:40 PM - INFO - Successfully clicked on health element
+09/04/2024 06:14:40 PM - DEBUG - Entered full name: Dennis Turner
+09/04/2024 06:14:40 PM - DEBUG - Entered full name: Dennis Turner
+09/04/2024 06:14:41 PM - DEBUG - Entered mobile number: 9860953430
+09/04/2024 06:14:41 PM - DEBUG - Entered mobile number: 9860953430
+09/04/2024 06:14:41 PM - DEBUG - Entered email: tmartin@example.com
+09/04/2024 06:14:41 PM - DEBUG - Entered email: tmartin@example.com
+09/04/2024 06:14:41 PM - INFO - Clicked on Get Started button
+09/04/2024 06:14:41 PM - INFO - Clicked on Get Started button
+09/04/2024 06:14:41 PM - DEBUG - random data of relation get selected
+09/04/2024 06:14:41 PM - DEBUG - random data of relation get selected
+09/04/2024 06:14:41 PM - INFO - row_data auto_self sends to dynamic xpath relations and age
+09/04/2024 06:14:41 PM - INFO - row_data auto_self sends to dynamic xpath relations and age
+09/04/2024 06:14:42 PM - DEBUG - selected member get clicked
+09/04/2024 06:14:42 PM - DEBUG - selected member get clicked
+09/04/2024 06:14:42 PM - DEBUG - selected member age get clicked
+09/04/2024 06:14:42 PM - DEBUG - selected member age get clicked
+09/04/2024 06:14:42 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:14:42 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:14:42 PM - INFO - row_data auto_spouse sends to dynamic xpath relations and age
+09/04/2024 06:14:42 PM - INFO - row_data auto_spouse sends to dynamic xpath relations and age
+09/04/2024 06:14:42 PM - DEBUG - selected member get clicked
+09/04/2024 06:14:42 PM - DEBUG - selected member get clicked
+09/04/2024 06:14:43 PM - DEBUG - selected member age get clicked
+09/04/2024 06:14:43 PM - DEBUG - selected member age get clicked
+09/04/2024 06:14:43 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:14:43 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:14:43 PM - INFO - row_data auto_son sends to dynamic xpath relations and age
+09/04/2024 06:14:43 PM - INFO - row_data auto_son sends to dynamic xpath relations and age
+09/04/2024 06:14:43 PM - DEBUG - selected member get clicked
+09/04/2024 06:14:43 PM - DEBUG - selected member get clicked
+09/04/2024 06:14:43 PM - DEBUG - selected member age get clicked
+09/04/2024 06:14:43 PM - DEBUG - selected member age get clicked
+09/04/2024 06:14:43 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:14:43 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:14:43 PM - INFO - row_data auto_father sends to dynamic xpath relations and age
+09/04/2024 06:14:43 PM - INFO - row_data auto_father sends to dynamic xpath relations and age
+09/04/2024 06:14:43 PM - DEBUG - selected member get clicked
+09/04/2024 06:14:43 PM - DEBUG - selected member get clicked
+09/04/2024 06:14:44 PM - DEBUG - selected member age get clicked
+09/04/2024 06:14:44 PM - DEBUG - selected member age get clicked
+09/04/2024 06:14:44 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:14:44 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:14:44 PM - INFO - row_data auto_mother sends to dynamic xpath relations and age
+09/04/2024 06:14:44 PM - INFO - row_data auto_mother sends to dynamic xpath relations and age
+09/04/2024 06:14:44 PM - DEBUG - selected member get clicked
+09/04/2024 06:14:44 PM - DEBUG - selected member get clicked
+09/04/2024 06:14:44 PM - DEBUG - selected member age get clicked
+09/04/2024 06:14:44 PM - DEBUG - selected member age get clicked
+09/04/2024 06:14:44 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:14:44 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:14:45 PM - INFO - clicked on the continue button
+09/04/2024 06:14:45 PM - INFO - clicked on the continue button
+09/04/2024 06:14:46 PM - DEBUG - multi individual option selected and  clicked
+09/04/2024 06:14:46 PM - DEBUG - multi individual option selected and  clicked
+09/04/2024 06:14:46 PM - INFO - continue button clicked
+09/04/2024 06:14:46 PM - INFO - continue button clicked
+09/04/2024 06:14:55 PM - INFO - ************** Appended TestPlanToOpt **************************
+09/04/2024 06:14:55 PM - INFO - ************** Appended TestPlanToOpt **************************
+09/04/2024 06:14:55 PM - INFO - ************** Appended TestPlanToOpt **************************
+09/04/2024 06:14:55 PM - INFO - Asserting Tell us where your element
+09/04/2024 06:14:55 PM - INFO - Asserting Tell us where your element
+09/04/2024 06:14:55 PM - INFO - Asserting Tell us where your element
+09/04/2024 06:15:11 PM - INFO - plan opted get selected
+09/04/2024 06:15:11 PM - INFO - plan opted get selected
+09/04/2024 06:15:11 PM - INFO - plan opted get selected
+09/04/2024 06:15:11 PM - INFO - Filling mandatory fields for male applicant
+09/04/2024 06:15:11 PM - INFO - Filling mandatory fields for male applicant
+09/04/2024 06:15:11 PM - INFO - Filling mandatory fields for male applicant
+09/04/2024 06:15:11 PM - INFO - Click on health element
+09/04/2024 06:15:11 PM - INFO - Click on health element
+09/04/2024 06:15:11 PM - INFO - Click on health element
+09/04/2024 06:15:12 PM - INFO - Successfully clicked on health element
+09/04/2024 06:15:12 PM - INFO - Successfully clicked on health element
+09/04/2024 06:15:12 PM - INFO - Successfully clicked on health element
+09/04/2024 06:15:12 PM - INFO - Successfully clicked on health element
+09/04/2024 06:15:12 PM - INFO - Successfully clicked on health element
+09/04/2024 06:15:12 PM - INFO - Successfully clicked on health element
+09/04/2024 06:15:12 PM - DEBUG - Entered full name: Blake Smith
+09/04/2024 06:15:12 PM - DEBUG - Entered full name: Blake Smith
+09/04/2024 06:15:12 PM - DEBUG - Entered full name: Blake Smith
+09/04/2024 06:15:12 PM - DEBUG - Entered mobile number: 9898687181
+09/04/2024 06:15:12 PM - DEBUG - Entered mobile number: 9898687181
+09/04/2024 06:15:12 PM - DEBUG - Entered mobile number: 9898687181
+09/04/2024 06:15:13 PM - DEBUG - Entered email: wingram@example.com
+09/04/2024 06:15:13 PM - DEBUG - Entered email: wingram@example.com
+09/04/2024 06:15:13 PM - DEBUG - Entered email: wingram@example.com
+09/04/2024 06:15:13 PM - INFO - Clicked on Get Started button
+09/04/2024 06:15:13 PM - INFO - Clicked on Get Started button
+09/04/2024 06:15:13 PM - INFO - Clicked on Get Started button
+09/04/2024 06:15:13 PM - DEBUG - random data of relation get selected
+09/04/2024 06:15:13 PM - DEBUG - random data of relation get selected
+09/04/2024 06:15:13 PM - DEBUG - random data of relation get selected
+09/04/2024 06:15:13 PM - INFO - row_data auto_self sends to dynamic xpath relations and age
+09/04/2024 06:15:13 PM - INFO - row_data auto_self sends to dynamic xpath relations and age
+09/04/2024 06:15:13 PM - INFO - row_data auto_self sends to dynamic xpath relations and age
+09/04/2024 06:15:14 PM - DEBUG - selected member get clicked
+09/04/2024 06:15:14 PM - DEBUG - selected member get clicked
+09/04/2024 06:15:14 PM - DEBUG - selected member get clicked
+09/04/2024 06:15:14 PM - DEBUG - selected member age get clicked
+09/04/2024 06:15:14 PM - DEBUG - selected member age get clicked
+09/04/2024 06:15:14 PM - DEBUG - selected member age get clicked
+09/04/2024 06:15:14 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:15:14 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:15:14 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:15:14 PM - INFO - row_data auto_spouse sends to dynamic xpath relations and age
+09/04/2024 06:15:14 PM - INFO - row_data auto_spouse sends to dynamic xpath relations and age
+09/04/2024 06:15:14 PM - INFO - row_data auto_spouse sends to dynamic xpath relations and age
+09/04/2024 06:15:14 PM - DEBUG - selected member get clicked
+09/04/2024 06:15:14 PM - DEBUG - selected member get clicked
+09/04/2024 06:15:14 PM - DEBUG - selected member get clicked
+09/04/2024 06:15:15 PM - DEBUG - selected member age get clicked
+09/04/2024 06:15:15 PM - DEBUG - selected member age get clicked
+09/04/2024 06:15:15 PM - DEBUG - selected member age get clicked
+09/04/2024 06:15:15 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:15:15 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:15:15 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:15:15 PM - INFO - row_data auto_son sends to dynamic xpath relations and age
+09/04/2024 06:15:15 PM - INFO - row_data auto_son sends to dynamic xpath relations and age
+09/04/2024 06:15:15 PM - INFO - row_data auto_son sends to dynamic xpath relations and age
+09/04/2024 06:15:15 PM - DEBUG - selected member get clicked
+09/04/2024 06:15:15 PM - DEBUG - selected member get clicked
+09/04/2024 06:15:15 PM - DEBUG - selected member get clicked
+09/04/2024 06:15:15 PM - DEBUG - selected member age get clicked
+09/04/2024 06:15:15 PM - DEBUG - selected member age get clicked
+09/04/2024 06:15:15 PM - DEBUG - selected member age get clicked
+09/04/2024 06:15:15 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:15:15 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:15:15 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:15:15 PM - INFO - row_data auto_daughter sends to dynamic xpath relations and age
+09/04/2024 06:15:15 PM - INFO - row_data auto_daughter sends to dynamic xpath relations and age
+09/04/2024 06:15:15 PM - INFO - row_data auto_daughter sends to dynamic xpath relations and age
+09/04/2024 06:15:15 PM - DEBUG - selected member get clicked
+09/04/2024 06:15:15 PM - DEBUG - selected member get clicked
+09/04/2024 06:15:15 PM - DEBUG - selected member get clicked
+09/04/2024 06:15:16 PM - DEBUG - selected member age get clicked
+09/04/2024 06:15:16 PM - DEBUG - selected member age get clicked
+09/04/2024 06:15:16 PM - DEBUG - selected member age get clicked
+09/04/2024 06:15:16 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:15:16 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:15:16 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:15:16 PM - INFO - row_data auto_father sends to dynamic xpath relations and age
+09/04/2024 06:15:16 PM - INFO - row_data auto_father sends to dynamic xpath relations and age
+09/04/2024 06:15:16 PM - INFO - row_data auto_father sends to dynamic xpath relations and age
+09/04/2024 06:15:16 PM - DEBUG - selected member get clicked
+09/04/2024 06:15:16 PM - DEBUG - selected member get clicked
+09/04/2024 06:15:16 PM - DEBUG - selected member get clicked
+09/04/2024 06:15:16 PM - DEBUG - selected member age get clicked
+09/04/2024 06:15:16 PM - DEBUG - selected member age get clicked
+09/04/2024 06:15:16 PM - DEBUG - selected member age get clicked
+09/04/2024 06:15:16 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:15:16 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:15:16 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:15:16 PM - INFO - clicked on the continue button
+09/04/2024 06:15:16 PM - INFO - clicked on the continue button
+09/04/2024 06:15:16 PM - INFO - clicked on the continue button
+09/04/2024 06:15:17 PM - DEBUG - family floater option selected and  clicked
+09/04/2024 06:15:17 PM - DEBUG - family floater option selected and  clicked
+09/04/2024 06:15:17 PM - DEBUG - family floater option selected and  clicked
+09/04/2024 06:15:17 PM - INFO - continue button clicked
+09/04/2024 06:15:17 PM - INFO - continue button clicked
+09/04/2024 06:15:17 PM - INFO - continue button clicked
+09/04/2024 06:15:19 PM - DEBUG - randomly choosing the self city name from the excel file
+09/04/2024 06:15:19 PM - DEBUG - randomly choosing the self city name from the excel file
+09/04/2024 06:15:19 PM - DEBUG - randomly choosing the self city name from the excel file
+09/04/2024 06:15:19 PM - DEBUG - city name sended to the city box
+09/04/2024 06:15:19 PM - DEBUG - city name sended to the city box
+09/04/2024 06:15:19 PM - DEBUG - city name sended to the city box
+09/04/2024 06:15:19 PM - INFO - clicked on continue button
+09/04/2024 06:15:19 PM - INFO - clicked on continue button
+09/04/2024 06:15:19 PM - INFO - clicked on continue button
+09/04/2024 06:15:19 PM - INFO - Asserting Father, mother element
+09/04/2024 06:15:19 PM - INFO - Asserting Father, mother element
+09/04/2024 06:15:19 PM - INFO - Asserting Father, mother element
+09/04/2024 08:40:12 PM - INFO - ************** Appended TestPlanToOpt **************************
+09/04/2024 08:40:12 PM - INFO - Filling mandatory fields for male applicant
+09/04/2024 08:40:12 PM - INFO - Click on health element
+09/04/2024 08:40:16 PM - INFO - Successfully clicked on health element
+09/04/2024 08:40:16 PM - INFO - Successfully clicked on health element
+09/04/2024 08:40:17 PM - DEBUG - Entered full name: Christopher Byrd
+09/04/2024 08:40:17 PM - DEBUG - Entered mobile number: 9801791172
+09/04/2024 08:40:17 PM - DEBUG - Entered email: davidfrazier@example.com
+09/04/2024 08:40:18 PM - INFO - Clicked on Get Started button
+09/04/2024 08:40:18 PM - DEBUG - random data of relation get selected
+09/04/2024 08:40:18 PM - INFO - row_data auto_self sends to dynamic xpath relations and age
+09/04/2024 08:40:19 PM - DEBUG - selected member get clicked
+09/04/2024 08:40:19 PM - DEBUG - selected member age get clicked
+09/04/2024 08:40:20 PM - DEBUG -  send the keys to the required fields
+09/04/2024 08:40:20 PM - INFO - row_data auto_spouse sends to dynamic xpath relations and age
+09/04/2024 08:40:20 PM - DEBUG - selected member get clicked
+09/04/2024 08:40:20 PM - DEBUG - selected member age get clicked
+09/04/2024 08:40:20 PM - DEBUG -  send the keys to the required fields
+09/04/2024 08:40:20 PM - INFO - row_data auto_son sends to dynamic xpath relations and age
+09/04/2024 08:40:20 PM - DEBUG - selected member get clicked
+09/04/2024 08:40:21 PM - DEBUG - selected member age get clicked
+09/04/2024 08:40:21 PM - DEBUG -  send the keys to the required fields
+09/04/2024 08:40:21 PM - INFO - row_data auto_daughter sends to dynamic xpath relations and age
+09/04/2024 08:40:21 PM - DEBUG - selected member get clicked
+09/04/2024 08:40:21 PM - DEBUG - selected member age get clicked
+09/04/2024 08:40:21 PM - DEBUG -  send the keys to the required fields
+09/04/2024 08:40:21 PM - INFO - row_data auto_mother sends to dynamic xpath relations and age
+09/04/2024 08:40:21 PM - DEBUG - selected member get clicked
+09/04/2024 08:40:22 PM - DEBUG - selected member age get clicked
+09/04/2024 08:40:22 PM - DEBUG -  send the keys to the required fields
+09/04/2024 08:40:22 PM - INFO - clicked on the continue button
+09/04/2024 08:40:24 PM - DEBUG - family floater option selected and  clicked
+09/04/2024 08:40:24 PM - INFO - continue button clicked
+09/04/2024 08:40:38 PM - INFO - ************** Appended TestPlanToOpt **************************
+09/04/2024 08:40:38 PM - INFO - ************** Appended TestPlanToOpt **************************
+09/04/2024 08:40:38 PM - INFO - Filling mandatory fields for male applicant
+09/04/2024 08:40:38 PM - INFO - Filling mandatory fields for male applicant
+09/04/2024 08:40:38 PM - INFO - Click on health element
+09/04/2024 08:40:38 PM - INFO - Click on health element
+09/04/2024 08:40:43 PM - INFO - Successfully clicked on health element
+09/04/2024 08:40:43 PM - INFO - Successfully clicked on health element
+09/04/2024 08:40:43 PM - INFO - Successfully clicked on health element
+09/04/2024 08:40:43 PM - INFO - Successfully clicked on health element
+09/04/2024 08:40:45 PM - DEBUG - Entered full name: Dale Bean
+09/04/2024 08:40:45 PM - DEBUG - Entered full name: Dale Bean
+09/04/2024 08:40:45 PM - DEBUG - Entered mobile number: 9881783429
+09/04/2024 08:40:45 PM - DEBUG - Entered mobile number: 9881783429
+09/04/2024 08:40:46 PM - DEBUG - Entered email: brian80@example.net
+09/04/2024 08:40:46 PM - DEBUG - Entered email: brian80@example.net
+09/04/2024 08:40:46 PM - INFO - Clicked on Get Started button
+09/04/2024 08:40:46 PM - INFO - Clicked on Get Started button
+09/04/2024 08:40:46 PM - DEBUG - random data of relation get selected
+09/04/2024 08:40:46 PM - DEBUG - random data of relation get selected
+09/04/2024 08:40:46 PM - INFO - row_data auto_self sends to dynamic xpath relations and age
+09/04/2024 08:40:46 PM - INFO - row_data auto_self sends to dynamic xpath relations and age
+09/04/2024 08:40:49 PM - DEBUG - selected member get clicked
+09/04/2024 08:40:49 PM - DEBUG - selected member get clicked
+09/04/2024 08:40:49 PM - DEBUG - selected member age get clicked
+09/04/2024 08:40:49 PM - DEBUG - selected member age get clicked
+09/04/2024 08:40:50 PM - DEBUG -  send the keys to the required fields
+09/04/2024 08:40:50 PM - DEBUG -  send the keys to the required fields
+09/04/2024 08:40:50 PM - INFO - row_data auto_spouse sends to dynamic xpath relations and age
+09/04/2024 08:40:50 PM - INFO - row_data auto_spouse sends to dynamic xpath relations and age
+09/04/2024 08:40:50 PM - DEBUG - selected member get clicked
+09/04/2024 08:40:50 PM - DEBUG - selected member get clicked
+09/04/2024 08:40:50 PM - DEBUG - selected member age get clicked
+09/04/2024 08:40:50 PM - DEBUG - selected member age get clicked
+09/04/2024 08:40:50 PM - DEBUG -  send the keys to the required fields
+09/04/2024 08:40:50 PM - DEBUG -  send the keys to the required fields
+09/04/2024 08:40:50 PM - INFO - row_data auto_son sends to dynamic xpath relations and age
+09/04/2024 08:40:50 PM - INFO - row_data auto_son sends to dynamic xpath relations and age
+09/04/2024 08:40:50 PM - DEBUG - selected member get clicked
+09/04/2024 08:40:50 PM - DEBUG - selected member get clicked
+09/04/2024 08:40:51 PM - DEBUG - selected member age get clicked
+09/04/2024 08:40:51 PM - DEBUG - selected member age get clicked
+09/04/2024 08:40:51 PM - DEBUG -  send the keys to the required fields
+09/04/2024 08:40:51 PM - DEBUG -  send the keys to the required fields
+09/04/2024 08:40:51 PM - INFO - row_data auto_father sends to dynamic xpath relations and age
+09/04/2024 08:40:51 PM - INFO - row_data auto_father sends to dynamic xpath relations and age
+09/04/2024 08:40:51 PM - DEBUG - selected member get clicked
+09/04/2024 08:40:51 PM - DEBUG - selected member get clicked
+09/04/2024 08:40:51 PM - DEBUG - selected member age get clicked
+09/04/2024 08:40:51 PM - DEBUG - selected member age get clicked
+09/04/2024 08:40:51 PM - DEBUG -  send the keys to the required fields
+09/04/2024 08:40:51 PM - DEBUG -  send the keys to the required fields
+09/04/2024 08:40:51 PM - INFO - row_data auto_mother sends to dynamic xpath relations and age
+09/04/2024 08:40:51 PM - INFO - row_data auto_mother sends to dynamic xpath relations and age
+09/04/2024 08:40:52 PM - DEBUG - selected member get clicked
+09/04/2024 08:40:52 PM - DEBUG - selected member get clicked
+09/04/2024 08:40:52 PM - DEBUG - selected member age get clicked
+09/04/2024 08:40:52 PM - DEBUG - selected member age get clicked
+09/04/2024 08:40:52 PM - DEBUG -  send the keys to the required fields
+09/04/2024 08:40:52 PM - DEBUG -  send the keys to the required fields
+09/04/2024 08:40:52 PM - INFO - clicked on the continue button
+09/04/2024 08:40:52 PM - INFO - clicked on the continue button
+09/04/2024 08:40:55 PM - DEBUG - multi individual option selected and  clicked
+09/04/2024 08:40:55 PM - DEBUG - multi individual option selected and  clicked
+09/04/2024 08:40:55 PM - INFO - continue button clicked
+09/04/2024 08:40:55 PM - INFO - continue button clicked
+09/04/2024 08:41:08 PM - INFO - ************** Appended TestPlanToOpt **************************
+09/04/2024 08:41:08 PM - INFO - ************** Appended TestPlanToOpt **************************
+09/04/2024 08:41:08 PM - INFO - ************** Appended TestPlanToOpt **************************
+09/04/2024 08:41:08 PM - INFO - Asserting Tell us where your element
+09/04/2024 08:41:08 PM - INFO - Asserting Tell us where your element
+09/04/2024 08:41:08 PM - INFO - Asserting Tell us where your element
+09/04/2024 08:41:24 PM - INFO - plan opted get selected
+09/04/2024 08:41:24 PM - INFO - plan opted get selected
+09/04/2024 08:41:24 PM - INFO - plan opted get selected
+09/04/2024 08:41:24 PM - INFO - Filling mandatory fields for male applicant
+09/04/2024 08:41:24 PM - INFO - Filling mandatory fields for male applicant
+09/04/2024 08:41:24 PM - INFO - Filling mandatory fields for male applicant
+09/04/2024 08:41:24 PM - INFO - Click on health element
+09/04/2024 08:41:24 PM - INFO - Click on health element
+09/04/2024 08:41:24 PM - INFO - Click on health element

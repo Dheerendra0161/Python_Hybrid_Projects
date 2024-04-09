@@ -1,0 +1,55 @@
+09/04/2024 06:13:21 PM - INFO - ************** Appended TestInsuranceApplication **************************
+09/04/2024 06:13:21 PM - INFO - Filling mandatory fields for male applicant
+09/04/2024 06:13:21 PM - INFO - Click on health element
+09/04/2024 06:13:22 PM - INFO - Successfully clicked on health element
+09/04/2024 06:13:22 PM - INFO - Successfully clicked on health element
+09/04/2024 06:13:23 PM - DEBUG - Entered full name: Jonathan Johnson
+09/04/2024 06:13:23 PM - DEBUG - Entered mobile number: 9827476581
+09/04/2024 06:13:23 PM - DEBUG - Entered email: kmoore@example.org
+09/04/2024 06:13:23 PM - INFO - Clicked on Get Started button
+09/04/2024 06:13:33 PM - INFO - ************** Appended TestInsuranceApplication **************************
+09/04/2024 06:13:33 PM - INFO - ************** Appended TestInsuranceApplication **************************
+09/04/2024 06:13:33 PM - INFO - Filling mandatory fields for female applicant
+09/04/2024 06:13:33 PM - INFO - Filling mandatory fields for female applicant
+09/04/2024 06:13:33 PM - INFO - Click on health element
+09/04/2024 06:13:33 PM - INFO - Click on health element
+09/04/2024 06:13:34 PM - INFO - Successfully clicked on health element
+09/04/2024 06:13:34 PM - INFO - Successfully clicked on health element
+09/04/2024 06:13:35 PM - DEBUG - Selected Female gender
+09/04/2024 06:13:35 PM - DEBUG - Selected Female gender
+09/04/2024 06:13:35 PM - DEBUG - Entered full name: Jacqueline Smith
+09/04/2024 06:13:35 PM - DEBUG - Entered full name: Jacqueline Smith
+09/04/2024 06:13:35 PM - DEBUG - Entered mobile number: 9837897724
+09/04/2024 06:13:35 PM - DEBUG - Entered mobile number: 9837897724
+09/04/2024 06:13:35 PM - DEBUG - Entered email: bfranco@example.net
+09/04/2024 06:13:35 PM - DEBUG - Entered email: bfranco@example.net
+09/04/2024 06:13:35 PM - INFO - Clicked on Get Started button
+09/04/2024 06:13:35 PM - INFO - Clicked on Get Started button
+
+09/04/2024 08:32:21 PM - INFO - ************** Appended TestInsuranceApplication **************************
+09/04/2024 08:32:21 PM - INFO - Filling mandatory fields for male applicant
+09/04/2024 08:32:21 PM - INFO - Click on health element
+09/04/2024 08:32:39 PM - INFO - Successfully clicked on health element
+09/04/2024 08:32:39 PM - INFO - Successfully clicked on health element
+09/04/2024 08:32:41 PM - DEBUG - Entered full name: Daniel Bowen
+09/04/2024 08:32:41 PM - DEBUG - Entered mobile number: 9824765411
+09/04/2024 08:32:41 PM - DEBUG - Entered email: yjackson@example.com
+09/04/2024 08:32:41 PM - INFO - Clicked on Get Started button
+09/04/2024 08:32:59 PM - INFO - ************** Appended TestInsuranceApplication **************************
+09/04/2024 08:32:59 PM - INFO - ************** Appended TestInsuranceApplication **************************
+09/04/2024 08:32:59 PM - INFO - Filling mandatory fields for female applicant
+09/04/2024 08:32:59 PM - INFO - Filling mandatory fields for female applicant
+09/04/2024 08:32:59 PM - INFO - Click on health element
+09/04/2024 08:32:59 PM - INFO - Click on health element
+09/04/2024 08:33:38 PM - INFO - Successfully clicked on health element
+09/04/2024 08:33:38 PM - INFO - Successfully clicked on health element
+09/04/2024 08:33:46 PM - DEBUG - Selected Female gender
+09/04/2024 08:33:46 PM - DEBUG - Selected Female gender
+09/04/2024 08:33:46 PM - DEBUG - Entered full name: Donna Allison
+09/04/2024 08:33:46 PM - DEBUG - Entered full name: Donna Allison
+09/04/2024 08:33:46 PM - DEBUG - Entered mobile number: 9803402522
+09/04/2024 08:33:46 PM - DEBUG - Entered mobile number: 9803402522
+09/04/2024 08:33:46 PM - DEBUG - Entered email: cindyvaughn@example.com
+09/04/2024 08:33:46 PM - DEBUG - Entered email: cindyvaughn@example.com
+09/04/2024 08:33:47 PM - INFO - Clicked on Get Started button
+09/04/2024 08:33:47 PM - INFO - Clicked on Get Started button

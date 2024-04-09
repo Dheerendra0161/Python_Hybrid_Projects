@@ -1,7 +1,8 @@
 from selenium import webdriver
 from utilities.read_configurations import read_config
 import pytest
-from allure_pytest import plugin
+from utilities.custom_logging import LoggerCustom
+
 
 @pytest.fixture(scope="function")
 def setup_and_teardown():
@@ -36,4 +37,19 @@ def setup_and_teardown():
 
     driver.quit()
 
+
+@pytest.fixture(scope="function")
+def logger(request):
+
+    # Get the class name dynamically
+    class_name = request.cls.__name__
+
+    # Initialize logger with append mode and include class name in the file name
+    logger = LoggerCustom().setup_logger(f"{class_name}.log", 50084, 10, mode='a')
+
+    # Log a message indicating the start of the test
+    logger.info(f"************** Appended {class_name} **************************")
+
+    # Return the logger object for the test
+    yield logger
 

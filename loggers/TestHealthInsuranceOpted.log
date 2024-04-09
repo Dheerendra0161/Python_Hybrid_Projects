@@ -1,0 +1,82 @@
+09/04/2024 06:15:40 PM - INFO - ************** Appended TestHealthInsuranceOpted **************************
+09/04/2024 06:15:40 PM - INFO - Asserting Edit Details Button
+09/04/2024 06:16:11 PM - INFO - Choosing Insurer Companies Plan
+09/04/2024 06:16:11 PM - INFO - Asserting Tell us where your element
+09/04/2024 06:16:27 PM - INFO - plan opted get selected
+09/04/2024 06:16:27 PM - INFO - Filling mandatory fields for male applicant
+09/04/2024 06:16:27 PM - INFO - Click on health element
+09/04/2024 06:16:29 PM - INFO - Successfully clicked on health element
+09/04/2024 06:16:29 PM - INFO - Successfully clicked on health element
+09/04/2024 06:16:30 PM - DEBUG - Entered full name: Michael Rice
+09/04/2024 06:16:31 PM - DEBUG - Entered mobile number: 9878744278
+09/04/2024 06:16:31 PM - DEBUG - Entered email: qriddle@example.net
+09/04/2024 06:16:31 PM - INFO - Clicked on Get Started button
+09/04/2024 06:16:35 PM - DEBUG - random data of relation get selected
+09/04/2024 06:16:35 PM - INFO - row_data auto_self sends to dynamic xpath relations and age
+09/04/2024 06:16:35 PM - DEBUG - selected member get clicked
+09/04/2024 06:16:36 PM - DEBUG - selected member age get clicked
+09/04/2024 06:16:36 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:16:36 PM - INFO - row_data auto_spouse sends to dynamic xpath relations and age
+09/04/2024 06:16:36 PM - DEBUG - selected member get clicked
+09/04/2024 06:16:36 PM - DEBUG - selected member age get clicked
+09/04/2024 06:16:36 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:16:36 PM - INFO - row_data auto_son sends to dynamic xpath relations and age
+09/04/2024 06:16:37 PM - DEBUG - selected member get clicked
+09/04/2024 06:16:37 PM - DEBUG - selected member age get clicked
+09/04/2024 06:16:37 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:16:37 PM - INFO - row_data auto_daughter sends to dynamic xpath relations and age
+09/04/2024 06:16:37 PM - DEBUG - selected member get clicked
+09/04/2024 06:16:37 PM - DEBUG - selected member age get clicked
+09/04/2024 06:16:38 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:16:38 PM - INFO - row_data auto_mother sends to dynamic xpath relations and age
+09/04/2024 06:16:38 PM - DEBUG - selected member get clicked
+09/04/2024 06:16:38 PM - DEBUG - selected member age get clicked
+09/04/2024 06:16:38 PM - DEBUG -  send the keys to the required fields
+09/04/2024 06:16:38 PM - INFO - clicked on the continue button
+09/04/2024 06:16:39 PM - DEBUG - family floater option selected and  clicked
+09/04/2024 06:16:39 PM - INFO - continue button clicked
+09/04/2024 06:16:40 PM - DEBUG - randomly choosing the self city name from the excel file
+09/04/2024 06:16:41 PM - DEBUG - city name sended to the city box
+09/04/2024 06:16:41 PM - INFO - clicked on continue button
+09/04/2024 06:16:41 PM - INFO - Asserting Father, mother element
+09/04/2024 08:41:37 PM - INFO - ************** Appended TestHealthInsuranceOpted **************************
+09/04/2024 08:41:37 PM - INFO - Asserting Edit Details Button
+09/04/2024 08:42:08 PM - INFO - Choosing Insurer Companies Plan
+09/04/2024 08:42:08 PM - INFO - Asserting Tell us where your element
+09/04/2024 08:42:23 PM - INFO - plan opted get selected
+09/04/2024 08:42:23 PM - INFO - Filling mandatory fields for male applicant
+09/04/2024 08:42:23 PM - INFO - Click on health element
+09/04/2024 08:42:37 PM - INFO - Successfully clicked on health element
+09/04/2024 08:42:37 PM - INFO - Successfully clicked on health element
+09/04/2024 08:42:38 PM - DEBUG - Entered full name: Ricardo Castillo
+09/04/2024 08:42:38 PM - DEBUG - Entered mobile number: 9817736511
+09/04/2024 08:42:38 PM - DEBUG - Entered email: sharonwalker@example.net
+09/04/2024 08:42:38 PM - INFO - Clicked on Get Started button
+09/04/2024 08:42:38 PM - DEBUG - random data of relation get selected
+09/04/2024 08:42:38 PM - INFO - row_data auto_self sends to dynamic xpath relations and age
+09/04/2024 08:42:40 PM - DEBUG - selected member get clicked
+09/04/2024 08:42:40 PM - DEBUG - selected member age get clicked
+09/04/2024 08:42:40 PM - DEBUG -  send the keys to the required fields
+09/04/2024 08:42:40 PM - INFO - row_data auto_spouse sends to dynamic xpath relations and age
+09/04/2024 08:42:40 PM - DEBUG - selected member get clicked
+09/04/2024 08:42:41 PM - DEBUG - selected member age get clicked
+09/04/2024 08:42:41 PM - DEBUG -  send the keys to the required fields
+09/04/2024 08:42:41 PM - INFO - row_data auto_son sends to dynamic xpath relations and age
+09/04/2024 08:42:41 PM - DEBUG - selected member get clicked
+09/04/2024 08:42:41 PM - DEBUG - selected member age get clicked
+09/04/2024 08:42:41 PM - DEBUG -  send the keys to the required fields
+09/04/2024 08:42:41 PM - INFO - row_data auto_daughter sends to dynamic xpath relations and age
+09/04/2024 08:42:41 PM - DEBUG - selected member get clicked
+09/04/2024 08:42:42 PM - DEBUG - selected member age get clicked
+09/04/2024 08:42:42 PM - DEBUG -  send the keys to the required fields
+09/04/2024 08:42:42 PM - INFO - row_data auto_father sends to dynamic xpath relations and age
+09/04/2024 08:42:42 PM - DEBUG - selected member get clicked
+09/04/2024 08:42:42 PM - DEBUG - selected member age get clicked
+09/04/2024 08:42:42 PM - DEBUG -  send the keys to the required fields
+09/04/2024 08:42:43 PM - INFO - clicked on the continue button
+09/04/2024 08:42:43 PM - DEBUG - family floater option selected and  clicked
+09/04/2024 08:42:43 PM - INFO - continue button clicked
+09/04/2024 08:42:45 PM - DEBUG - randomly choosing the self city name from the excel file
+09/04/2024 08:42:45 PM - DEBUG - city name sended to the city box
+09/04/2024 08:42:46 PM - INFO - clicked on continue button
+09/04/2024 08:42:46 PM - INFO - Asserting Father, mother element

@@ -9,14 +9,13 @@ from pages.E_Self_and_ParentsLocation_Page import SelfParentsLocationPage
 from utilities.custorms_actions_chains import CustomActionChains
 from utilities.explicit_wait_class import explicit_wait, explicit_wait_elements
 from utilities.java_script_executor import scroll_into_view
-from utilities.custom_logging import LoggerCustom
 
 
 class CompaniesHealthInsuranceQuotesPage(SelfParentsLocationPage):
-    def __init__(self, driver):
-        super().__init__(driver)
+    def __init__(self, driver, logger):
+        super().__init__(driver, logger)
+        self.logger = logger
         self.custom_action_class = CustomActionChains(self.driver)
-        self.logger = LoggerCustom().setup_logger("CompaniesHealthInsuranceQuotesPage.log", 5084, 10)
 
     def assert_edit_details_button(self):
         self.logger.info("Asserting Edit Details Button")
@@ -27,7 +26,7 @@ class CompaniesHealthInsuranceQuotesPage(SelfParentsLocationPage):
 
     def choose_insurer_companies_plan(self):
         self.logger.info("Choosing Insurer Companies Plan")
-        location_value = SelfParentsLocationPage(self.driver)
+        location_value = SelfParentsLocationPage(self.driver, self.logger)
         location_value.assert_tell_self_city_location()
         location_value.entering_self_city_location()
         location_value.assert_tell_parents_city_location()
