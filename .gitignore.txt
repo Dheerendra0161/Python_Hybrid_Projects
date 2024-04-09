@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and reports
+logs/
+reports/
+
+# Virtual environment
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Selenium Webdriver executables
+geckodriver
+chromedriver
+edgedriver
+operadriver
+
+# Other files
+.DS_Store
+*.log

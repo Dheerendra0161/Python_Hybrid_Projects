@@ -1,0 +1,7 @@
+[32mINFO    [0m ChooseMultiYearOptionsAndReviewCartPage.log:G_Your_Cart_And_Product_Details_Page.py:14 Choosing Multi-Year Options
+[32mINFO    [0m CompaniesHealthInsuranceQuotesPage.log:F_Companies_Health_Insurance_Quotes_Page.py:22 Asserting Edit Details Button
+[32mINFO    [0m CompaniesHealthInsuranceQuotesPage.log:F_Companies_Health_Insurance_Quotes_Page.py:29 Choosing Insurer Companies Plan
+[32mINFO    [0m SelfParentsLocationPage.log:E_Self_and_ParentsLocation_Page.py:82 Asserting Tell us where your element
+[32mINFO    [0m SelfParentsLocationPage.log:E_Self_and_ParentsLocation_Page.py:19 plan opted get selected
+[32mINFO    [0m InsuranceApplicationPage.log:B_Insurance_Application_Apply_Page.py:17 Filling mandatory fields for male applicant
+[32mINFO    [0m LandingPage.log:A_Landing_Page.py:12 Click on health element

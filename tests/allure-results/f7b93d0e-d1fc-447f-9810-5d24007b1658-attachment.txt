@@ -1,0 +1,2 @@
+[32mINFO    [0m LandingPage.log:A_Landing_Page.py:12 Click on health element
+[35mDEBUG   [0m LandingPage.log:A_Landing_Page.py:15 Successfully clicked on health element
