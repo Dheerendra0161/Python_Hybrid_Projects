@@ -9,12 +9,13 @@ logs/
 reports/
 
 # Virtual environment
-venv/
-env/
+#venv/
+#env/
 
 # IDE files
 .vscode/
 .idea/
+.logger/
 
 # Selenium Webdriver executables
 geckodriver

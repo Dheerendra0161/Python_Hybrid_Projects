@@ -53,3 +53,20 @@
 09/04/2024 08:33:46 PM - DEBUG - Entered email: cindyvaughn@example.com
 09/04/2024 08:33:47 PM - INFO - Clicked on Get Started button
 09/04/2024 08:33:47 PM - INFO - Clicked on Get Started button
+10/04/2024 01:01:08 PM - INFO - ************** Appended TestInsuranceApplication **************************
+10/04/2024 01:01:08 PM - INFO - Filling mandatory fields for male applicant
+10/04/2024 01:01:08 PM - INFO - Click on health element
+10/04/2024 01:01:10 PM - INFO - Successfully clicked on health element
+10/04/2024 01:01:10 PM - INFO - Successfully clicked on health element
+10/04/2024 01:01:14 PM - DEBUG - Entered full name: Jonathan Hamilton
+10/04/2024 01:01:15 PM - DEBUG - Entered mobile number: 9828479082
+10/04/2024 01:01:15 PM - DEBUG - Entered email: davisjoseph@example.org
+10/04/2024 01:01:16 PM - INFO - Clicked on Get Started button
+10/04/2024 01:01:30 PM - INFO - ************** Appended TestInsuranceApplication **************************
+10/04/2024 01:01:30 PM - INFO - ************** Appended TestInsuranceApplication **************************
+10/04/2024 01:01:30 PM - INFO - Filling mandatory fields for female applicant
+10/04/2024 01:01:30 PM - INFO - Filling mandatory fields for female applicant
+10/04/2024 01:01:30 PM - INFO - Click on health element
+10/04/2024 01:01:30 PM - INFO - Click on health element
+10/04/2024 01:01:31 PM - INFO - Successfully clicked on health element
+10/04/2024 01:01:31 PM - INFO - Successfully clicked on health element
