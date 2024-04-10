@@ -130,3 +130,8 @@
 09/04/2024 08:39:58 PM - DEBUG - selected member age get clicked
 09/04/2024 08:39:58 PM - DEBUG -  send the keys to the required fields
 09/04/2024 08:39:58 PM - INFO - clicked on the continue button
+10/04/2024 03:24:48 PM - INFO - ************** Appended TestWhomToInsure **************************
+10/04/2024 03:24:48 PM - INFO - Filling mandatory fields for male applicant
+10/04/2024 03:24:48 PM - INFO - Click on health element
+10/04/2024 03:24:48 PM - WARNING - Health element is not clickable
+10/04/2024 03:24:48 PM - INFO - Successfully clicked on health element

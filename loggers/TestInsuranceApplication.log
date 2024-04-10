@@ -75,3 +75,30 @@
 10/04/2024 02:01:01 PM - INFO - Click on health element
 10/04/2024 02:01:01 PM - WARNING - Health element is not clickable
 10/04/2024 02:01:01 PM - INFO - Successfully clicked on health element
+10/04/2024 03:24:18 PM - INFO - ************** Appended TestInsuranceApplication **************************
+10/04/2024 03:24:18 PM - INFO - Filling mandatory fields for male applicant
+10/04/2024 03:24:18 PM - INFO - Click on health element
+10/04/2024 03:24:20 PM - INFO - Successfully clicked on health element
+10/04/2024 03:24:20 PM - INFO - Successfully clicked on health element
+10/04/2024 03:24:21 PM - DEBUG - Entered full name: Jerry Harvey
+10/04/2024 03:24:21 PM - DEBUG - Entered mobile number: 9866025058
+10/04/2024 03:24:22 PM - DEBUG - Entered email: angela52@example.net
+10/04/2024 03:24:22 PM - INFO - Clicked on Get Started button
+10/04/2024 03:24:33 PM - INFO - ************** Appended TestInsuranceApplication **************************
+10/04/2024 03:24:33 PM - INFO - ************** Appended TestInsuranceApplication **************************
+10/04/2024 03:24:33 PM - INFO - Filling mandatory fields for female applicant
+10/04/2024 03:24:33 PM - INFO - Filling mandatory fields for female applicant
+10/04/2024 03:24:33 PM - INFO - Click on health element
+10/04/2024 03:24:33 PM - INFO - Click on health element
+10/04/2024 03:24:35 PM - INFO - Successfully clicked on health element
+10/04/2024 03:24:35 PM - INFO - Successfully clicked on health element
+10/04/2024 03:24:36 PM - DEBUG - Selected Female gender
+10/04/2024 03:24:36 PM - DEBUG - Selected Female gender
+10/04/2024 03:24:36 PM - DEBUG - Entered full name: Terri Chen
+10/04/2024 03:24:36 PM - DEBUG - Entered full name: Terri Chen
+10/04/2024 03:24:37 PM - DEBUG - Entered mobile number: 9821853616
+10/04/2024 03:24:37 PM - DEBUG - Entered mobile number: 9821853616
+10/04/2024 03:24:37 PM - DEBUG - Entered email: jlowe@example.com
+10/04/2024 03:24:37 PM - DEBUG - Entered email: jlowe@example.com
+10/04/2024 03:24:37 PM - INFO - Clicked on Get Started button
+10/04/2024 03:24:37 PM - INFO - Clicked on Get Started button
